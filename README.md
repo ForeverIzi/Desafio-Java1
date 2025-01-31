@@ -1,18 +1,15 @@
-## Getting Started
+## Banco ultra simples em terminal Java.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esse é um projeto super simples para a Dio - Bradesco Java Cloud.
 
-## Folder Structure
+obs: Como achei este primeiro desafio simples, separei em classes e métodos para já ir me acostumando com a sintaxe
+
+## Estrutura de Pasta
 
 The workspace contains two folders by default, where:
+A estrutura é baseada em duas pastas.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: Contém os arquivos feitos do códigos.
+- `lib`: Pasta que contém as dependências
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Os arquivos na pasta `bin` são para iniciar a aplicação direto pelo terminal, são criados automaticamente.
