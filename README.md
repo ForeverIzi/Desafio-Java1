@@ -2,7 +2,7 @@
 
 Esse é um projeto super simples para a Dio - Bradesco Java Cloud.
 
-obs: Como achei este primeiro desafio simples demias, separei em classes e métodos para já ir me acostumando com a sintaxe
+obs: Como achei este primeiro desafio simples demais, separei em classes e métodos para já ir me acostumando com a sintaxe
 
 ## Estrutura de Pasta
 
